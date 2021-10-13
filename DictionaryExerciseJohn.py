@@ -9,10 +9,12 @@ spirit = 0
 life = 0
 man = 0
 
+
 x = 'father'
 
 for x in file_contents:
      father += 1
+     
 
 
 #if ('father' in file_contents):
